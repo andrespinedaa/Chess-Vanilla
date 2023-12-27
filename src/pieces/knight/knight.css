@@ -1,0 +1,9 @@
+.knight{
+    width: var(--size-pieces);
+    height: auto;
+}
+
+.knightImage{
+    width: 100%;
+    height: auto;
+}

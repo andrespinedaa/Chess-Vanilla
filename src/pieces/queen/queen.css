@@ -1,0 +1,9 @@
+.queen{
+    width: var(--size-pieces);
+    height: auto;
+}
+
+.queenImage{
+    width: 100%;
+    height: auto;
+}

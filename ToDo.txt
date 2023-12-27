@@ -1,0 +1,2 @@
+1. there wont more of two pieces in the same square.
+2. A mega function for the movements.

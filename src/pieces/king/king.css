@@ -1,0 +1,9 @@
+.king{
+    width: var(--size-pieces);
+    height: auto;
+}
+
+.kingImage{
+    width: 100%;
+    height: auto;
+}

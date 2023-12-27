@@ -1,0 +1,2 @@
+const whiteChessmen = [];
+const blackChessmen = [];

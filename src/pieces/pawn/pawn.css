@@ -1,0 +1,9 @@
+.pawn{
+    width: var(--size-pieces);
+    height: auto;
+}
+
+.pawnImage{
+    width: 100%;
+    height: auto;
+}
